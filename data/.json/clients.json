@@ -1,0 +1,80 @@
+[
+    {
+        "dniClient":76444688,
+        "name":"Jose Fernandez",
+        "telephone":941030827,
+        "email":"jose.fernandez30@gmail.com",
+        "user":"Joseff"
+    },
+    {
+        "dniClient":64461780,
+        "name":"Kevin Cueva",
+        "telephone":955502272,
+        "email":"kcueva@gmail.com",
+        "user":"KCUEVA"
+    },
+    {
+        "dniClient":74681980,
+        "name":"Rosario Mendez",
+        "telephone":967480536,
+        "email":"rmendez@gmail.com",
+        "user":"RMENDEZ"
+    },
+    {
+        "dniClient":72767405,
+        "name":"Manuel Alameda",
+        "telephone":999152365,
+        "email":"manuela@gmail.com",
+        "user":"MALAMEDA"
+    },
+
+    {
+        "dniClient":79461385,
+        "name":"Rodrigo Mendoza",
+        "telephone":950148630,
+        "email":"rodri1995@gmail.com",
+        "user":"RMENDOZA"
+    },
+    {
+        "dniClient":76860549,
+        "name":"Claudio Ronces",
+        "telephone":975480612,
+        "email":"roncesclau@gmail.com",
+        "user":"CRONCES"
+    },
+    {
+        "dniClient":76720513,
+        "name":"Maximo Ronda",
+        "telephone":919365287,
+        "email":"max.ronda@gmail.com",
+        "user":"MRONDA"
+    },
+    {
+        "dniClient":76410982,
+        "name":"Elizabeth Ronceros",
+        "telephone":935167482,
+        "email":"elizabethronceros@gmail.com",
+        "user":"ERONCEROS"
+    },
+    {
+        "dniClient":78894556,
+        "name":"Diego Baque",
+        "telephone":905362178,
+        "email":"baque.diego@gmail.com",
+        "user":"DBAQUE"
+    },
+    {
+        "dniClient":76415923,
+        "name":"Josh Morales",
+        "telephone":910253645,
+        "email":"joshales@gmail.com",
+        "user":"JMORALES"
+    },
+    {
+        "dniClient":47574759,
+        "name":"Victor Cruz",
+        "telephone":989896544,
+        "email":"vicruz@gmail.com",
+        "user":"VCRUZ"
+    }
+]

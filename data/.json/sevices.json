@@ -1,0 +1,122 @@
+[
+  {
+    "type": "Soporte Tecnico",
+    "description": "Internet+Telefonia",
+    "price": "$1,035.45",
+    "url": "images/service0"
+  },
+  {
+    "type": "Soporte Tecnico",
+    "description": "Cable+Telefonia",
+    "price": "$923.93",
+    "url": "images/service1"
+  },
+  {
+    "type": "Internet",
+    "description": "60mb de velocidad,instalacion del moden/router",
+    "price": "$258.29",
+    "url": "images/service2"
+  },
+  {
+    "type": "Cable",
+    "description": "Servicio de cable con 120 canales disponibles + 30 canales HD",
+    "price": "$1,046.17",
+    "url": "images/service3"
+  },
+  {
+    "type": "hogar",
+    "description": "Paquete 2 Play o 3Play",
+    "price": "$570.62",
+    "url": "images/service4"
+  },
+  {
+    "type": "Hogar",
+    "description": "Internet Fijo Inalambrico",
+    "price": "$390.86",
+    "url": "images/service5"
+  },
+  {
+    "type": "Hogar",
+    "description": "Internet fijo 1 play",
+    "price": "$862.08",
+    "url": "images/service6"
+  },
+  {
+    "type": "Hogar",
+    "description": "Cobertura Fija",
+    "price": "$739.44",
+    "url": "images/service7"
+  },
+  {
+    "type": "Hogar",
+    "description": "Television",
+    "price": "$902.91",
+    "url": "images/service8"
+  },
+  {
+    "type": "Movil",
+    "description": "Postpago",
+    "price": "$374.79",
+    "url": "images/service9"
+  },
+  {
+    "type": "Movil",
+    "description": "Prepago",
+    "price": "$410.98",
+    "url": "images/service10"
+  },
+  {
+    "type": "Movil",
+    "description": "Recarga",
+    "price": "$787.16",
+    "url": "images/service11"
+  },
+  {
+    "type": "Movil",
+    "description": "Portabilidad movil",
+    "price": "$172.58",
+    "url": "images/service12"
+  },
+  {
+    "type": "Medifax",
+    "description": "Compra de Paquetes",
+    "price": "$177.60",
+    "url": "images/service13"
+  },
+  {
+    "type": "Exclusivos",
+    "description": "Full Claro",
+    "price": "$1,117.54",
+    "url": "images/service14"
+  },
+  {
+    "type": "Exclusivos",
+    "description": "App Smart Home",
+    "price": "$1,122.10",
+    "url": "images/service15"
+  },
+  {
+    "type": "Hogar",
+    "description": "Tu Plan ideal",
+    "price": "$451.38",
+    "url": "images/service16"
+  },
+  {
+    "type": "Servicio Tecnico",
+    "description": "Cable + Internet",
+    "price": "$877.08",
+    "url": "images/service17"
+  },
+  {
+    "type": "Servicio Tecnico",
+    "description": "Cambio de router",
+    "price": "$362.23",
+    "url": "images/service18"
+  },
+  {
+    "type": "Servicio Tecnico",
+    "description": "Cambio de Telefono",
+    "price": "$932.97",
+    "url": "images/service19"
+  }
+]

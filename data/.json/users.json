@@ -1,0 +1,52 @@
+[
+    {
+        "username": "jose_fernandez", 
+        "password": "jf2020"
+    },
+    { 
+        "username": "kevin_cueva", 
+        "password": "kc2020",
+        "employee": true
+    },
+    { 
+        "username": "roger_chawa", 
+        "password": "rc2020",
+        "employee": true
+    },
+    { 
+        "username": "jhon_steven", 
+        "password": "js2020",
+        "employee": true
+    },
+    { 
+        "username": "edgar_vela", 
+        "password": "ev2020",
+        "employee": true
+    },
+    { 
+        "username": "roger_diaz", 
+        "password": "rd2020",
+        "employee": true
+    },
+    { 
+        "username": "diego_durand", 
+        "password": "dd2020",
+        "employee": true
+    },
+    { 
+        "username": "juan_malaga", 
+        "password": "jm2020",
+        "employee": true
+    },
+    
+    { 
+        "username": "alex_dominguez", 
+        "password": "ad2020",
+        "employee": true
+    },
+    { 
+        "username": "manuel_colan", 
+        "password": "mc2020",
+        "employee": true
+    }
+]

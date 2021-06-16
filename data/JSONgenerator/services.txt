@@ -1,0 +1,9 @@
+[
+  '{{repeat(20)}}',
+  {
+    type: '{{company()}}',
+    description: '{{lorem(25, "words")}}',
+    price: '{{floating(100, 1200, 2, "$0,0.00")}}',
+    url: 'images/service{{index()}}'
+  }
+]
