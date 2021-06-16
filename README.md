@@ -1,2 +1,2 @@
-# Api-de-reclamo-Node.js-y-MongoDB
+# backend proyecto Jobby
 proyecto de sistemas distribuidos
